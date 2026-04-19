@@ -1,4 +1,4 @@
 ---
 layout: home
-title: HealthyLifeHub - Your Daily Health & Wellness Guide
+title: "HealthyLifeHub &mdash; Evidence-based health and wellness tips for real life."
 ---

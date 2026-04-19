@@ -1,25 +1,39 @@
 ---
 layout: default
-title: About HealthyLifeHub
+title: "About HealthyLifeHub"
 permalink: /about/
-description: "HealthyLifeHub provides evidence-based health, nutrition, and wellness advice for a healthier life."
+description: "About Kkuma Park, the writer behind HealthyLifeHub."
 ---
 
 # About HealthyLifeHub
 
-HealthyLifeHub is your go-to resource for practical, evidence-based health and wellness advice.
+## Who writes here
 
-## What We Cover
+My name is **Kkuma Park**. I'm an independent writer and developer based in Seoul, South Korea. I've spent more than a decade in IT, built a handful of small software products, and along the way accumulated a list of personal experiments, mistakes, and hard-won notes that turned into this blog.
 
-- **Nutrition** - Healthy eating guides and meal planning tips
-- **Fitness** - Workout routines and exercise guides for all levels
-- **Mental Health** - Stress management, mindfulness, and self-care
-- **Weight Loss** - Sustainable strategies for healthy weight management
-- **Sleep** - Tips for better sleep quality and habits
-- **Supplements** - Honest reviews and evidence-based recommendations
+I burned out hard at 29 — couldn't sleep, gained 15kg, ignored every warning sign. HealthyLifeHub is the playbook I built over three years of slow, measurable changes that actually stuck. I log my own bloodwork and sleep data, not just hype.
 
-## Our Mission
+## What HealthyLifeHub is for
 
-We believe everyone deserves access to reliable health information. Our mission is to cut through the noise and deliver actionable wellness tips you can use today.
+HealthyLifeHub is my working notebook on **health and wellness**. Every article here exists because I needed the answer myself at some point and couldn't find a version I trusted.
 
-New articles are published daily. Subscribe to our [RSS feed](/feed.xml) to never miss a post.
+I try to follow three rules on this site:
+
+1. **Write from experience, not summary.** If I haven't actually done it, I won't pretend I have.
+2. **Show the numbers.** Where real data, tests, or costs are useful, I include them.
+3. **Update when I'm wrong.** If I learn that an earlier post was inaccurate, I fix the post and add a note.
+
+## How I run this blog
+
+- Posts are published on a regular schedule.
+- I use AI tools (such as ChatGPT) to help with drafting structure and outlines, but every published post is reviewed, edited, and fact-checked by me before it goes live.
+- Affiliate links, when used, are marked. I only link to products I have actually used or would genuinely recommend.
+- Ads on this site come from Google AdSense once my site is approved. Ads help keep the site free to read.
+
+## Get in touch
+
+Questions, corrections, feedback, or collaboration ideas are welcome.
+
+**Email:** [kkumaspark@gmail.com](mailto:kkumaspark@gmail.com)
+
+For privacy, legal, and data practices, please see the [Privacy Policy](/privacy-policy/), [Terms](/terms/), and [Disclaimer](/disclaimer/).
