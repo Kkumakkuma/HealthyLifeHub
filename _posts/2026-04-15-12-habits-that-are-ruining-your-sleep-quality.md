@@ -6,6 +6,8 @@ categories: [sleep]
 description: "12 Habits That Are Ruining Your Sleep Quality - Evidence-based health and wellness tips for a healthier life."
 ---
 
+![12 Habits That Are Ruining Your Sleep Quality](/HealthyLifeHub/assets/pin-images/2026-04-15-12-habits-that-are-ruining-your-sleep-quality.png)
+
 Sleep is one of the most vital components of overall health and wellness, yet so many of us are sabotaging our sleep quality without even realizing it. If you’re waking up groggy, struggling to concentrate, or feeling moody, your nightly habits could be to blame. In this post, we will explore 12 habits that are ruining your sleep quality and discuss how to replace them with healthier alternatives for a more restful night.
 
 ## 1. Ignoring a Sleep Schedule

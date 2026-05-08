@@ -7,6 +7,8 @@ description: "Build healthy habits with our beautiful Notion habit tracker."
 tags: [product-review, health-and-wellness]
 ---
 
+![How to Overcome Digital Distractions and Stick to Your Wellness Goals in 2026](/HealthyLifeHub/assets/pin-images/2026-04-17-how-to-overcome-digital-distractions-and-stick-to-your-wellness-goals-in-2026.png)
+
 # How to Overcome Digital Distractions and Stick to Your Wellness Goals in 2026
 
 In the digital age, the plethora of online content and notifications can be overwhelming. Whether it's a social media ping, a new email, or a captivating series on streaming platforms, digital distractions can easily dismantle your well-intentioned wellness goals. If you find yourself scrolling mindlessly through your phone or losing track of time while binge-watching shows, you are not alone. Many of us struggle to maintain focus on our wellness objectives, leaving us frustrated and wondering where the time went.

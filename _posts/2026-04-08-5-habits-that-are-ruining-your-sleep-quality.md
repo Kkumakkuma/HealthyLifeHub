@@ -6,6 +6,8 @@ categories: [sleep]
 description: "5 Habits That Are Ruining Your Sleep Quality - Evidence-based health and wellness tips for a healthier life."
 ---
 
+![5 Habits That Are Ruining Your Sleep Quality](/HealthyLifeHub/assets/pin-images/2026-04-08-5-habits-that-are-ruining-your-sleep-quality.png)
+
 Sleep is essential for our well-being, and poor sleep quality can affect every aspect of our lives. Have you ever wondered why you wake up feeling groggy or struggle to fall asleep at night? It might be time to evaluate your daily habits. In this blog post, we’ll explore five common habits that are ruining your sleep quality and how to improve them for better rest and rejuvenation.
 
 ## Understanding the Importance of Sleep

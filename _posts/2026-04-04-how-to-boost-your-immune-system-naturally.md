@@ -6,6 +6,8 @@ categories: [disease-prevention]
 description: "Discover proven natural ways to strengthen your immune system and stay healthy year-round."
 ---
 
+![How to Boost Your Immune System Naturally](/HealthyLifeHub/assets/pin-images/2026-04-04-how-to-boost-your-immune-system-naturally.png)
+
 Your immune system is your body's first line of defense against illness. And the good news is, you don't need expensive supplements or extreme diets to keep it running strong.
 
 Small, consistent lifestyle changes can make a massive difference in how well your body fights off infections. Here's what actually works, according to science.

@@ -7,6 +7,8 @@ description: "Discover the surprising results of my 30-day carnivore diet challe
 tags: [nutrition, health-and-wellness, 2026]
 ---
 
+![I Tried a Carnivore Diet for 30 Days - Here’s What I Learned about My Health](/HealthyLifeHub/assets/pin-images/2026-05-07-i-tried-a-carnivore-diet-for-30-days-heres-what-i-learned-about-my-health.png)
+
 I’m Kkuma Park, a Seoul-based indie writer with a penchant for experimenting with various diets. In March 2023, I decided to go all-in on the carnivore diet for 30 days. I was drawn to its promises of improved mental clarity and weight loss, but I also feared the potential downsides of such a drastic dietary change. Spending about $300 on meat alone, I had one simple goal: readjust my relationship with food and see if it could really transform my health.
 
 The first few days were tough, and I experienced what many refer to as the “keto flu.” After adjusting to this meat-heavy diet, my energy levels shifted, and I began to notice changes—not all of them pleasant. Over the course of a month, I learned lessons that were significant not only on a physical level but emotionally as well. Here’s an in-depth look at the journey I undertook on the carnivore diet and what I truly discovered about my health.

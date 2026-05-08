@@ -6,6 +6,8 @@ categories: [fitness]
 description: "How to Start Running When You Are Out of Shape - Evidence-based health and wellness tips for a healthier life."
 ---
 
+![How to Start Running When You Are Out of Shape](/HealthyLifeHub/assets/pin-images/2026-04-13-how-to-start-running-when-you-are-out-of-shape.png)
+
 Running is one of the most accessible and rewarding forms of exercise available to us. For many, it represents freedom, a way to explore the great outdoors, and an opportunity to clear the mind. However, if you’re out of shape, the thought of starting a running routine can feel daunting. But don’t worry! This guide will provide you with everything you need to get started on your running journey, safely and effectively. 
 
 ## The Benefits of Running

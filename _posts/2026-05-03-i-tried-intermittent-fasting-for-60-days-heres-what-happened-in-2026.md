@@ -7,6 +7,8 @@ description: "Discover the results of my 60-day intermittent fasting journey in 
 tags: [weight-loss, health-and-wellness, 2026]
 ---
 
+![I Tried Intermittent Fasting for 60 Days - Here’s What Happened in 2026](/HealthyLifeHub/assets/pin-images/2026-05-03-i-tried-intermittent-fasting-for-60-days-heres-what-happened-in-2026.png)
+
 I stepped onto the scale in late January 2026, feeling a mix of hope and trepidation. Over the past two months, I had meticulously adhered to an intermittent fasting regimen, hoping for significant changes. With an initial weight of ***185 pounds***, I was determined to see where this journey would take me. By the end of my 60 days, I had noticed not just a drop in weight but also an unexpected boost in my energy levels and mental clarity. This experience wasn’t just about shedding pounds; it was about altering my lifestyle for the better.
 
 ## How I Researched This

@@ -7,6 +7,8 @@ description: "Discover the truth about elderberry syrup for immune support in 20
 tags: [immune-health, health-and-wellness, 2026]
 ---
 
+![Is Elderberry Syrup Really Effective for Immune Support in 2026? My 3-Month Review](/HealthyLifeHub/assets/pin-images/2026-04-26-is-elderberry-syrup-really-effective-for-immune-support-in-2026-my-3-month-review.png)
+
 I never imagined I would spend nearly $120 this winter on elderberry syrup, only to find myself questioning its effectiveness for immune support. After feeling the telltale signs of a cold creeping up on me in early January 2026, I decided to try various elderberry products to see if they could really bolster my defenses. I sampled different brands, tracked my health, and logged how many colds I experienced over a three-month period. The results? They were more surprising than I could have anticipated. 
 
 ## How I Researched This
