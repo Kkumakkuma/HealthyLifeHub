@@ -2,8 +2,8 @@ name: Auto Generate Blog Post
 
 on:
   schedule:
-    # Run every 4 hours (offset by 1 hour from SmartMoneyDaily): 01:00, 05:00, 09:00, 13:00, 17:00, 21:00 UTC
-    - cron: '0 1/4 * * *'
+    # Run every 6 hours starting at 01:13 UTC + random 0-60min delay
+    - cron: '13 1/6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
